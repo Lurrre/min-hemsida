@@ -1,0 +1,18 @@
+a{
+    width: 10%;
+    border-style: dotted;
+}
+
+h1{
+    width: 40%;
+    outline-style: solid;
+    border: 5px;
+    outline-color: black;
+}
+
+p{
+    width: 90%;
+    outline-style: solid;
+    border: 5px;
+    outline-color: black;
+}
